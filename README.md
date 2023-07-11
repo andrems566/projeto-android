@@ -1,2 +1,2 @@
 # projeto android
- meu primeiro site baseado no site do desafio 10 do curso em video
+ meu primeiro site baseado no desafio 10 do curso em video
